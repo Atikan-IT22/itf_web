@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+body{
+    background: #dadada;
+}
+.main_txt{
+    color: #000000;
+    font-size: 45px;
+    background-color: #f8f8f8;
+    justify-content: center;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.link{
+
+}
+.right{
+    padding: 5px;
+    justify-content: end;
+    background-color: #ff0000;
+}
+footer{
+    width: 100px;
+    height: 100px;
+    
+}
